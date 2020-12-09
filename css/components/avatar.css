@@ -1,0 +1,7 @@
+.avatar {
+	widows: 60px;
+	height: 200px;
+	border-radius: 50%;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+
+}
